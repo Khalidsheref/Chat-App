@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507530951506",
+    "project_id": "scholar-chat-app-4f986",
+    "storage_bucket": "scholar-chat-app-4f986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507530951506:android:8c6e7093c0d30d1ac2988b",
+        "android_client_info": {
+          "package_name": "com.example.toku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_Yk-Do_YcP2G8jl-Xf2_r3jxYYLILQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
